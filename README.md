@@ -168,7 +168,7 @@ b.ne loop
 
 - ~2,400 lines of C across 26 source/header files
 - 4-person team, ~300 commits, built primarily during a one-week sprint
-- Full codebase exists in the private repository
+- Full codebase with commit history exists in the private repository
 
 ## Team
 
